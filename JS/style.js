@@ -1,14 +1,14 @@
-// let myObj = {
-//     Name: "Marcedes",
-//     Model: "X5",
-//     Color: "Blue",
-//     Price: "$50,00,000",
+let myObj = {
+    Name: "Marcedes",
+    Model: "X5",
+    Color: "Blue",
+    Price: "$50,00,000",
 
-//     FullName: function() {
-//         console.log("Hi i am Marcedes ")
-//     }
-// }   
-// myObj.FullName()
+    FullName: function() {
+        console.log("Hi i am Marcedes ")
+    }
+}   
+myObj.FullName()
 
 document.write("<div style='text-align: center;'>");
 
